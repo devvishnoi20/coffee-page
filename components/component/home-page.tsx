@@ -28,8 +28,8 @@ export default function HomePage() {
               Hey Jason,
               <br />
               <br />
-              Was wondering if you'd be interested in meeting my team at Philz
-              Coffee at 11 AM today. No pressure if you can't make it, although
+              Was wondering if you&apos;d be interested in meeting my team at Philz
+              Coffee at 11 AM today. No pressure if you can&apos;t make it, although
               I think you guys would really get along!
               <br />
               <br />
